@@ -79,4 +79,3 @@ I take **distraction** seriously and am very sensitive to **work-life-balance;**
 
 1. Why I love to travel ([hint](http://mrconsole-eats.tumblr.com/)).
 2. My uninformed obsession with birds.
-
