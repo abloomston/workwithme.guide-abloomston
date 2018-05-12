@@ -2,6 +2,7 @@
 layout: profile
 title: Adam Bloomston
 full_name: Adam Bloomston
+github_url: https://github.com/abloomston/workwithme.guide-abloomston/
 picture: ./abloomston.jpg
 categories: [profile]
 ---
