@@ -53,7 +53,7 @@ Here are the areas I'm focused on growing in 2018:
 ## Communication Preferences
 
 * I aim to **respond to emails the same business day**.
-* I check Slack and aim to **respond in Slack within an hour**.
+* I aim to **respond in Slack within an hour**.
 * I take **distraction** seriously and am very sensitive to **work-life-balance;** for example phones are left by the door, on vibrate (exception is if I'm on-call), in my home.
 
 ## How To Know I’ve Gone To The Dark Side
