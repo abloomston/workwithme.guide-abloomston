@@ -32,24 +32,29 @@ categories: [profile]
 
 Here are the areas I'm focused on growing in 2018:
 
-* Facilitating technical growth
+* Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
 * Leadership
   * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018
   * I will be participating in an upcoming [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
 * Facilitation
   * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018
+* Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
 
 *[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
 
 ## Work Patterns
 
-*I recently left my role at* [Clover Health](https://www.cloverhealth.com/) *and am actively searching for what’s next.* When working, though, I follow [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
+* I work as an engineer on the Anti-discrimination team at [Airbnb](https://airbnb.io/).
+* In the mornings (10am-12pm) I tend to focus on solo (🎧) work away from my desk (usually 888 2F in Santorini—it reminds me of [Chefchaouen](https://www.vogue.com/article/chefchaouen-morocco-blue-city)).
+* After lunch (1pm-6pm) if not in meetings I'm usually at my desk (888 4F near Waterman); **I prefer meetings, including 1:1s, after lunch**.
+* I follow and work from home on [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
+* I keep my [Slack status](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability) and calendar very up to date.
 
 ## Communication Preferences
 
-I treat email like snail mail: I check it once every day or so, and aim to **respond to emails within a few business days**. I check Slack every hour or so and aim to **respond in Slack within a couple hours**.
-
-I take **distraction** seriously and am very sensitive to **work-life-balance;** for example phones are left by the door, on vibrate (exception is if I'm on-call), in my home.
+* I aim to **respond to emails the same business day**.
+* I aim to **respond in Slack within an hour**.
+* I take **distraction** seriously and am very sensitive to **work-life-balance;** for example phones are left by the door, on vibrate (exception is if I'm on-call), in my home.
 
 ## How To Know I’ve Gone To The Dark Side
 
