@@ -32,7 +32,7 @@ categories: [profile]
 
 Here are the areas I'm focused on growing in 2018:
 
-* Facilitating technical growth
+* Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
 * Leadership
   * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018
   * I will be participating in an upcoming [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
