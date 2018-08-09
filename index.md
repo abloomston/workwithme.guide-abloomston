@@ -43,11 +43,14 @@ Here are the areas I'm focused on growing in 2018:
 
 ## Work Patterns
 
-*I recently left my role at* [Clover Health](https://www.cloverhealth.com/) *and am actively searching for what’s next.* When working, though, I follow [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
+* I work as an engineer on the Anti-discrimination team at [Airbnb](https://airbnb.io/).
+* In the mornings (10am-12pm) I tend to focus on solo (🎧) work away from my desk, usually in 888 2F in Santorini.
+* After lunch (1pm-6pm) if not in meetings I'm usually at my desk (888 4F near Waterman); **I prefer meetings, including 1:1s, after lunch**.
+* I follow and work from home on [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
 
 ## Communication Preferences
 
-I treat email like snail mail: I check it once every day or so, and aim to **respond to emails within a few business days**. I check Slack every hour or so and aim to **respond in Slack within a couple hours**.
+I aim to **respond to emails the same business day**. I check Slack and aim to **respond in Slack within an hour**.
 
 I take **distraction** seriously and am very sensitive to **work-life-balance;** for example phones are left by the door, on vibrate (exception is if I'm on-call), in my home.
 
