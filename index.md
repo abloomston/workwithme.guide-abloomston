@@ -17,11 +17,15 @@ categories: [profile]
 
 ## Me Being Me
 
-* My Myers–Briggs type is [INTJ](https://en.wikipedia.org/wiki/INTJ).
 * I'm very **confident**, often to a fault. *Sometimes I sound more confident than I am or feel. Feel free to probe if you perceive me as being overly confident—I'm working on this.*
 * I can be quite **frank**, especially when I'm lost in the idea being discussed.
 * I come from a very large, vocal family—I can sometimes worry about feeling **heard**.
 * I've been known to be **verbose**, e.g. this document.
+
+### Personality typologies
+
+* My Myers–Briggs type is [INTJ](https://en.wikipedia.org/wiki/INTJ).
+* My Insights Discovery Position is [22: Reforming Director (Classic)](./InsightsProfile.pdf)
 
 ## Receiving Feedback & Recognition
 
