@@ -25,7 +25,7 @@ categories: [profile]
 ### Personality typologies
 
 * My Myers–Briggs type is [INTJ](https://en.wikipedia.org/wiki/INTJ).
-* My Insights Discovery Position is [22: Reforming Director (Classic)](AdamBloomston - 22 Reforming Director (Classic).pdf)
+* My Insights Discovery Position is [22: Reforming Director (Classic)](./InsightsProfile.pdf)
 
 ## Receiving Feedback & Recognition
 
