@@ -35,12 +35,12 @@ categories: [profile]
 
 ## Areas for Development
 
-Here are the areas I'm focused on growing in 2018:
+Here are the areas I'm focused on growing in 2018/2019:
 
 * Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
 * Leadership
   * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018
-  * I will be participating in an upcoming [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
+  * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
 * Facilitation
   * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018
 * Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
@@ -50,7 +50,7 @@ Here are the areas I'm focused on growing in 2018:
 ## Work Patterns
 
 * I work as an engineer on the Anti-discrimination team at [Airbnb](https://airbnb.io/).
-* In the mornings (9am-12pm) I tend to focus on solo (🎧) work away.
+* In the mornings (9am-12pm) I tend to focus on solo (🎧) work.
 * **I prefer meetings, including 1:1s, after lunch (1pm-5pm)**.
 * I follow and work from home on [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
 * I keep my [Slack status](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability) and calendar very up to date.
