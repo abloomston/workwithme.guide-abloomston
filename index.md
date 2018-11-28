@@ -50,10 +50,11 @@ Here are the areas I'm focused on growing in 2018:
 ## Work Patterns
 
 * I work as an engineer on the Anti-discrimination team at [Airbnb](https://airbnb.io/).
-* In the mornings (10am-12pm) I tend to focus on solo (🎧) work away from my desk (usually 888 2F in Santorini—it reminds me of [Chefchaouen](https://www.vogue.com/article/chefchaouen-morocco-blue-city)).
-* After lunch (1pm-6pm) if not in meetings I'm usually at my desk (888 4F near Waterman); **I prefer meetings, including 1:1s, after lunch**.
+* In the mornings (9am-12pm) I tend to focus on solo (🎧) work away.
+* **I prefer meetings, including 1:1s, after lunch (1pm-5pm)**.
 * I follow and work from home on [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
 * I keep my [Slack status](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability) and calendar very up to date.
+* I bring my dog, Baby Doctor, to work with me every day. If he's bothering you at all, please let me know—no offense will be taken, I promise!
 
 ## Communication Preferences
 
