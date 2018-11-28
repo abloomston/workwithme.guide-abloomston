@@ -56,8 +56,6 @@ Here are the areas I'm focused on growing in 2018:
 * I keep my [Slack status](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability) and calendar very up to date.
 * I bring my dog, Baby Doctor, to work with me every day. If he's bothering you at all, please let me know—no offense will be taken, I promise!
 
-![Baby Doctor](./BabyDoctor.jpg)
-
 ## Communication Preferences
 
 * I aim to **respond to emails the same business day**.
