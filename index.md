@@ -29,6 +29,8 @@ categories: [profile]
 
 ## Receiving Feedback & Recognition
 
+Airbnb colleagues: Reflektive is a great place for appreciation/recognition. You can also submit feedback (compliments, suggestions, criticisms, and advice) to my manager using [this form](https://goo.gl/forms/QpKqSKlpLiWh0K3N2).
+
 * I prefer when others **ask permission** before giving feedback. This helps me to prepare for potential criticism, and gives me the choice to defer it if I'm not in a good place to receive it.
 * I prefer to receive criticism **in private** and with **concrete examples** of where I could have done better—these help anchor me in the facts, rather than my emotions. *I appreciate and value this feedback, and can’t get enough of it.*
 * I **appreciate recognition** for my positive impact.
