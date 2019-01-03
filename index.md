@@ -20,7 +20,7 @@ categories: [profile]
 * I'm very **confident**, often to a fault. *Sometimes I sound more confident than I am or feel. Feel free to probe if you perceive me as being overly confident—I'm working on this.*
 * I can be quite **frank**, especially when I'm lost in the idea being discussed.
 * I come from a very large, vocal family—I can sometimes worry about feeling **heard**.
-* I've been known to be **verbose**, e.g. this document.
+* I've been known to be **verbose**, e.g. this document, and can sometimes get caught up in the **details**.
 
 ### Personality typologies
 
@@ -29,15 +29,13 @@ categories: [profile]
 
 ## Receiving Feedback & Recognition
 
-Airbnb colleagues: Reflektive is a great place for appreciation/recognition. You can also submit feedback (compliments, suggestions, criticisms, and advice) to my manager using [this form](https://goo.gl/forms/QpKqSKlpLiWh0K3N2).
+**Airbnb colleagues**: Reflektive is a great place for appreciation/recognition. You can also submit feedback (compliments, suggestions, criticisms, and advice) to my manager using [this form](https://goo.gl/forms/QpKqSKlpLiWh0K3N2).
 
 * I prefer when others **ask permission** before giving feedback. This helps me to prepare for potential criticism, and gives me the choice to defer it if I'm not in a good place to receive it.
 * I prefer to receive criticism **in private** and with **concrete examples** of where I could have done better—these help anchor me in the facts, rather than my emotions. *I appreciate and value this feedback, and can’t get enough of it.*
 * I **appreciate recognition** for my positive impact.
 
 ## Areas for Development
-
-Here are the areas I'm focused on growing in 2018/2019:
 
 * Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
   * I'm a 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
@@ -89,10 +87,8 @@ Here are the areas I'm focused on growing in 2018/2019:
 * Meetings without a clear agenda or an explicit facilitator.
 * A (perceived) lack of follow-through.
 
-## Acronyms I Use
-* **(FY)SA**— (for your) situational awareness: something I think you might need to be aware of, depending on what you're working on. This may also be something I did that doesn't have a high level of public visibility or record associated with it, such as a production configuration change that isn't in some audit-able log. [Some](http://www.linkedin.com/in/sarapackman) have asked excellent questions about FYSA vs FYI—this may be prompting a small crisis of identity while I work this out for myself.
-
 ## Ask Me About
 
 1. Why I love to travel ([hint](http://mrconsole-eats.tumblr.com/)).
 2. My uninformed obsession with birds.
+3. My dog, Baby Doctor.
