@@ -47,6 +47,7 @@ Here are the areas I'm focused on growing in 2018/2019:
   * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
 * Facilitation
   * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018
+  * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q1 2019.
 * Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
 
 *[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
