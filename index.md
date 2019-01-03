@@ -41,6 +41,7 @@ Here are the areas I'm focused on growing in 2018/2019:
 
 * Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
   * I'm a 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
+  * Departing from the standard mentor-mentee dynamic, I prefer a collaborative relationship where both of us teach, learn, challenge, and are challenged.
 * Leadership
   * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018
   * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
