@@ -54,11 +54,11 @@ categories: [profile]
 
 Based on feedback from my colleagues, here are three concrete aspects of communication and leadership I'm focusing on growing in 2019:
 
-![FocusOnGrowth.jpg](Focus on growth instead of repercussion)
+![Focus on growth instead of repercussion](FocusOnGrowth.jpg)
 
-![FocusOnAction.jpg](Focus on action instead of calamity)
+![Focus on action instead of calamity](FocusOnAction.jpg)
 
-![OpineOnNorthStars.jpg](Opine on north stars rather than presenting north star as fact)
+![Opine on north stars rather than presenting north star as fact](OpineOnNorthStars.jpg)
 
 *[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
 
