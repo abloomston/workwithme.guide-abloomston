@@ -37,6 +37,8 @@ categories: [profile]
 
 ## Areas for Development
 
+### High-level areas for development
+
 * Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
   * I'm a 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
   * Departing from the standard mentor-mentee dynamic, I prefer a collaborative relationship where both of us teach, learn, challenge, and are challenged.
@@ -47,6 +49,16 @@ categories: [profile]
   * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018
   * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q1 2019.
 * Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
+
+### Concrete areas for development
+
+Based on feedback from my colleagues, here are three concrete aspects of communication and leadership I'm focusing on growing in 2019:
+
+![FocusOnGrowth.jpg](Focus on growth instead of repercussion)
+
+![FocusOnAction.jpg](Focus on action instead of calamity)
+
+![OpineOnNorthStars.jpg](Opine on north stars rather than presenting north star as fact)
 
 *[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
 
