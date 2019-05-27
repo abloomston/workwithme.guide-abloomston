@@ -40,25 +40,31 @@ categories: [profile]
 ### High-level areas for development
 
 * Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
-  * I'm a 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
+  * I was a Q1 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
   * Departing from the standard mentor-mentee dynamic, I prefer a collaborative relationship where both of us teach, learn, challenge, and are challenged.
 * Leadership
-  * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018
-  * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
+  * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018.
+  * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program).
 * Facilitation
-  * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018
-  * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q1 2019.
+  * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018.
+  * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q2 2019.
 * Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
 
 ### Concrete areas for development
 
-Based on feedback from my colleagues, here are three concrete aspects of communication and leadership I'm focusing on growing in 2019:
+Based on feedback from my colleagues at [Airbnb](https://airbnb.io/):
 
 ![Focus on growth instead of repercussion](FocusOnGrowth.jpg)
 
 ![Focus on action instead of calamity](FocusOnAction.jpg)
 
 ![Opine on north stars rather than presenting north star as fact](OpineOnNorthStars.jpg)
+
+Based on feedback from my peers in the [Co-Active Leadership Program](http://www.coactive.com/leadership/program):
+
+![Does what I want to say (*) match ~my~ the space? (*) serve ~me~ the space? (*) connect the space (*) bring ~the~ my truth](DoesWhatIWantToSay.jpg)
+
+![Also lead from Charm & Beauty](LeadFromCharmAndBeauty.jpg)
 
 *[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
 
