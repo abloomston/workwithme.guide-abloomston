@@ -52,7 +52,7 @@ categories: [profile]
 
 ### Concrete areas for development
 
-Based on feedback from my colleagues, here are three concrete aspects of communication and leadership I'm focusing on growing in 2019:
+Based on feedback from my colleagues at [Airbnb](https://airbnb.io/):
 
 ![Focus on growth instead of repercussion](FocusOnGrowth.jpg)
 
