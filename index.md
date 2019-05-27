@@ -60,6 +60,12 @@ Based on feedback from my colleagues at [Airbnb](https://airbnb.io/):
 
 ![Opine on north stars rather than presenting north star as fact](OpineOnNorthStars.jpg)
 
+Based on feedback from my peers in the [Co-Active Leadership Program](http://www.coactive.com/leadership/program):
+
+![Does what I want to say (*) match ~my~ the space? (*) serve ~me~ the space? (*) connect the space (*) bring ~the~ my truth](DoesWhatIWantToSay.jpg)
+
+![Also lead from Charm & Beauty](LeadFromCharmAndBeauty.jpg)
+
 *[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
 
 ## Work Patterns
