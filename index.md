@@ -43,11 +43,11 @@ categories: [profile]
   * I'm a 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
   * Departing from the standard mentor-mentee dynamic, I prefer a collaborative relationship where both of us teach, learn, challenge, and are challenged.
 * Leadership
-  * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018
-  * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program)
+  * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018.
+  * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program).
 * Facilitation
-  * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018
-  * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q1 2019.
+  * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018.
+  * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q2 2019.
 * Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
 
 ### Concrete areas for development
