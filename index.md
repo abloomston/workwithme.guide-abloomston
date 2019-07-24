@@ -31,7 +31,7 @@ categories: [profile]
 
 **Airbnb colleagues**: Reflektive is a great place for appreciation/recognition. You can also submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston).
 
-* I prefer when others **ask permission** before giving feedback. This helps me to prepare for potential criticism, and gives me the choice to defer it if I'm not in a good place to receive it.
+* Please **preface** that you are giving me feedback before doing so. This helps me to prepare so that I can best hear you!
 * I prefer to receive criticism **in private** and with **concrete examples** of where I could have done better—these help anchor me in the facts, rather than my emotions. *I appreciate and value this feedback, and can’t get enough of it.*
 * I **appreciate recognition** for my positive impact.
 
