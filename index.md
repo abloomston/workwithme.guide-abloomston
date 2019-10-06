@@ -107,6 +107,5 @@ Based on feedback from my peers in the [Co-Active Leadership Program](http://www
 
 ## Ask Me About
 
-1. Why I love to travel ([hint](http://mrconsole-eats.tumblr.com/)).
-2. My uninformed obsession with birds.
-3. My dog, Baby Doctor.
+1. My uninformed obsession with birds.
+2. My dog, Baby Doctor.
