@@ -7,105 +7,90 @@ picture: ./abloomston.jpg
 categories: [profile]
 ---
 
-## Values and Personality
+# Here are the four qualities I value most in collaboration:
 
-* I aspire to be **self-reflexive**, to have and model **humility**.
-* I place a high value on **self-accountability** and **follow-through**.
-* Facilitating the **growth** of other technologists is very important to me.
+## 1. Craft
 
-*Please provide [feedback](#receiving-feedback--recognition) if and when you feel I could do better in holding these values.*
+_I treat work as a craft—continuously cultivating key skills and bringing in intellectual frameworks so that we can do our best work as individuals and as a team._
 
-## Me Being Me
+_What this means to me_: As part of this value, I place a high value on self-accountability and follow-through. 
 
-* I'm very **confident**, often to a fault. *Sometimes I sound more confident than I am or feel. Feel free to probe if you perceive me as being overly confident—I'm working on this.*
-* I can be quite **frank**, especially when I'm lost in the idea being discussed.
-* I come from a very large, vocal family—I can sometimes worry about feeling **heard**.
-* I've been known to be **verbose**, e.g. this document, and can sometimes get caught up in the **details**.
+_How this shows up in my work_:
 
-### Personality typologies
+Crafts I’m currently cultivating are:
 
-* My Myers–Briggs type is [INTJ](https://en.wikipedia.org/wiki/INTJ).
-* My Insights Discovery Position is [22: Reforming Director (Classic)](./InsightsProfile.pdf)
+* Facilitating technical growth
+* Facilitative leadership
+* Group facilitation with a focus on a graphical style
 
-## Receiving Feedback & Recognition
+Areas in which I’m intellectually focused right now include:
 
-**Airbnb colleagues**: Reflektive is a great place for appreciation/recognition. You can also submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston).
+* Systems thinking
+* Long term project planning
+* Privacy, ethics, and machine learning
 
-* Please **preface** that you are giving me feedback before doing so. This helps me to prepare so that I can best hear you!
-* I prefer to receive criticism **in private** and with **concrete examples** of where I could have done better—these help anchor me in the facts, rather than my emotions. *I appreciate and value this feedback, and can’t get enough of it.*
-* I **appreciate recognition** for my positive impact.
+_Invitation_: Check out the work from the people whose craft I most respect:
 
-## Areas for Development
+* [Dr. Latanya Sweeney](https://en.wikipedia.org/wiki/Latanya_Sweeney)
+* [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi)
+* [Dr. Diane Vaughan](https://en.wikipedia.org/wiki/Diane_Vaughan)
+* [Alberta Hunter](https://en.wikipedia.org/wiki/Alberta_Hunter)
+* [Dr. Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg)
 
-### High-level areas for development
+## 2. Inclusion
 
-* Facilitating technical growth, working with colleagues in and outside [Airbnb](https://airbnb.io/)
-  * I was a Q1 2019 [First Round Fast Track Mentor](https://fasttrack.firstround.com/).
-  * Departing from the standard mentor-mentee dynamic, I prefer a collaborative relationship where both of us teach, learn, challenge, and are challenged.
-* Leadership
-  * I attended a [Co-Active Leadership Experience](http://www.coactive.com/leadership/experience) Workshop in 2018.
-  * I am currently participating in a 10 month long [Co-Active Leadership Program](http://www.coactive.com/leadership/program).
-* Facilitation
-  * I attended a [Group Facilitation Skills](http://www.communityatwork.com/groupfac1.html) Workshop in 2018.
-  * I will be attending a [Graphic Facilitation Workshop](https://www.grove.com/workshops_principlesGraphicFacilitation.php) in Q2 2019.
-* Systems Thinking, Software Development, and Organizations: everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
+_A diversity of voices participating in the dialogue is essential for solving complex systemic issues. Plus, it’s just the right thing to do._
 
-### Concrete areas for development
+_What this means to me_: I cultivate and protect the psychological safety of the team above all—in general and in meetings. As a facilitator, I will also look for ways to engage and balance the voices in the room and create trust.
 
-Based on feedback from my colleagues at [Airbnb](https://airbnb.io/):
+_How this shows up in my work_: I believe in meeting agendas and target outcomes as a core principle of inclusion. If we all know what we agree to, then we start from an even foundation. I always ask for an agenda before accepting meeting invites.
 
-![Focus on growth instead of repercussion](FocusOnGrowth.jpg)
+_Invitation_: Use and share [these principles of inclusion in meetings](#principles-for-inclusive-meetings).
 
-![Focus on action instead of calamity](FocusOnAction.jpg)
+## 3. Growth
 
-![Opine on north stars rather than presenting north star as fact](OpineOnNorthStars.jpg)
+_I view every working relationship as an avenue for mutual growth for its own sake and for the sake of extraordinary project outcomes on behalf of the humans we create for._
 
-Based on feedback from my peers in the [Co-Active Leadership Program](http://www.coactive.com/leadership/program):
+_What this means to me_: I foster a team environment that supports feedback and constructive dialogue whatever role I have on that team. Whether I am on a project that is big or small or weighing in as a stakeholder, I engage whole-heartedly. I am known for facilitating discussions about the team’s current areas for development and setting a tone for vulnerability and mutual accountability. I believe in setting the tone for saying the things that often go unsaid, and giving precise and candid feedback.
 
-![Does what I want to say (*) match ~my~ the space? (*) serve ~me~ the space? (*) connect the space (*) bring ~the~ my truth](DoesWhatIWantToSay.jpg)
+_How this shows up in my work_: In my personal growth, I am leaning into curiosity as my go-to reaction to pretty much everything. I’m also looking to add to the modalities with which I express my contribution, thus I’m learning graphical facilitation.
 
-![Also lead from Charm & Beauty](LeadFromCharmAndBeauty.jpg)
+_Invitation_:
 
-*[Feedback](#receiving-feedback--recognition) is always appreciated, especially in the areas above.*
+* If we are going to start collaborating, I invite you to setup an hour with me and I’ll help you draft your own [Work With Me Guide](http://workwithme.guide/).
+* Please give me feedback.
+* Use and share these tips on [how to give feedback](#tips-for-giving-feedback) and [how to navigate rough terrain in personal dialogue](#tips-for-navigating-rough-terrain-in-interpersonal-dialogue).
+* Airbnb colleagues: You can submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston). Reflektive is a great place for appreciation/recognition.
+* I’m energized by growth relationships of mutual exchange outside of project work (rather than the standard mentor-mentee dynamic). Please feel free to approach me if you have an idea.
 
-## Work Patterns
+## 4. Focus
 
-* I work as an engineer on the Anti-discrimination team at [Airbnb](https://airbnb.io/).
-* In the mornings (9am-12pm) I tend to focus on solo (🎧) work.
-* **I prefer meetings, including 1:1s, after lunch (1pm-5pm)**.
-* I follow and work from home on [No Meeting Wednesdays](https://wavelength.asana.com/workstyle-no-meeting-wednesdays/#close).
-* I keep my [Slack status](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability) and calendar very up to date.
-* I bring my dog, Baby Doctor, to work with me every day. If he's bothering you at all, please let me know—no offense will be taken, I promise!
+_I am committed to presence in my worklife._
 
-## Communication Preferences
+_What this means to me_: If I’m with you, I’m present. When I’m focused on solo work most mornings and Wednesdays, I protect that flow.
 
-* I aim to **respond to emails the same business day**.
-* I aim to **respond in Slack within an hour**.
-* I take **distraction** seriously and am very sensitive to **work-life-balance;** for example phones are left by the door, on vibrate (exception is if I'm on-call), in my home.
+_How this shows up in my work_: You can rely on my calendar and Slack status as very up-to-date. When I’m not working, my phone is usually not near me, on vibrate (unless I’m on call).
 
-## How To Know I’ve Gone To The Dark Side
+_Invitation_: Speaking of time outside of work, ask me about my uninformed obsession with birds or my dog, Baby Doctor, whom I bring to work with me every day. If he’s bothering you at all, please let me know—no offense will be taken, I promise!
 
-### Warning Signs
+## Here are resources for teams and fellow human beings
 
-* I'm quick to judge or make large generalizations such as "I hate postgres."
-* I focus on minor points of logical error, losing the forest for the trees in a discussion.
-* I mention that I'm "hangry" (hungry + angry)—this means I haven't eaten in a few hours.
+### Principles for Inclusive Meetings
 
-### How to help
+* Agree upon agenda and outcomes before diving into content.
+* Be curious and ask questions.
+* Be aware and responsible if you are taking up more than a fair share of the air space. If you're often the first to speak, count to 5 slowly first.
+* If you're unsure how knowledgeable someone is about a topic, ask "How familiar are you with X?" rather than "Do you know about X?"
 
-* Ask me if it would be helpful to table the conversation until later.
-* Ask me what my goal is in the conversation.
-* Offer me food, such as a 🍌
+### Tips for Giving Feedback
 
-## Pet Peeves
+* Ask permission before giving feedback.
+* Give criticism in private and with concrete examples to help people anchor in the facts, rather than emotions.
+* Appreciate and give recognition for positive impact. Two related concepts to consider: [negativity bias](https://en.wikipedia.org/wiki/Negativity_bias) and [positive deviance](https://en.wikipedia.org/wiki/Positive_deviance).
+* Champion an attribution culture.
 
-*I don't expect this list to change your actions—but it might help you better understand and empathize with my reactions.*
+### Tips for Navigating Rough Terrain in Interpersonal Dialogue
 
-* Tardiness—*I'm a New Yorker, after all.*
-* Meetings without a clear agenda or an explicit facilitator.
-* A (perceived) lack of follow-through.
-
-## Ask Me About
-
-1. My uninformed obsession with birds.
-2. My dog, Baby Doctor.
+* Articulate your intention to reground the conversation and as an invitation to get on the same page again.
+* Focus on hearing over correcting, listening over speaking.
+* Offer food.
