@@ -25,7 +25,6 @@ Areas in which I’m intellectually focused right now include:
 
 * Systems thinking
 * Long term project planning
-* Software Development and Organizations, or everything written by [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) 🤓
 * Privacy, ethics, and machine learning
 
 _Invitation_: Check out the trainings and conferences I am attending on [LinkedIn](https://www.linkedin.com/in/adam-bloomston/).
