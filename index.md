@@ -51,7 +51,7 @@ _How this shows up in my work_: In my personal growth, I am leaning into curiosi
 
 _Invitation_:
 
-* If we are going to start collaborating, I invite you to setup an hour with me and I’ll help you draft your own Work With Me Guide.
+* If we are going to start collaborating, I invite you to setup an hour with me and I’ll help you draft your own [Work With Me Guide](http://workwithme.guide/).
 * Please give me feedback.
 * Use and share these tips on [how to give feedback](#tips-for-giving-feedback) and [how to navigate rough terrain in personal dialogue](#tips-for-navigating-rough-terrain-in-interpersonal-dialogue).
 * Airbnb colleagues: You can submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston). Reflektive is a great place for appreciation/recognition.
