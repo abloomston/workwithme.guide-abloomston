@@ -51,7 +51,7 @@ _Invitation_:
 
 * If we are going to start collaborating, I invite you to setup an hour with me and I’ll help you draft your own Work With Me Guide.
 * Please give me feedback.
-* Use and share these [tips here on how to give feedback and navigate rough terrain in personal dialogue](tips-for-navigating-rough-terrain-in-interpersonal-dialogue).
+* Use and share these tips on [how to give feedback](#tips-for-giving-feedback) and [how to navigate rough terrain in personal dialogue](#tips-for-navigating-rough-terrain-in-interpersonal-dialogue).
 * Airbnb colleagues: You can submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston). Reflektive is a great place for appreciation/recognition.
 * I’m always open to growth relationships of mutual exchange outside of project work (that’s Adam speak for mentoring 🤓). Please feel free to approach me if you have an idea.
 
@@ -73,6 +73,12 @@ _Invitation_: Speaking of time outside of work, ask me about my uninformed obses
 * Be curious and ask questions.
 * Be aware and responsible if you are taking up more than a fair share of the air space.
 * TODO
+
+### Tips for Giving Feedback
+
+* Preface that you are giving feedback before doing so.
+* Give criticism in private and with concrete examples to help people anchor in the facts, rather than emotions.
+* Appreciate and give recognition for positive impact. TODO do X% more because of bias.
 
 ### Tips for Navigating Rough Terrain in Interpersonal Dialogue
 
