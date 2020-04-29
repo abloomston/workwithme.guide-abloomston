@@ -7,7 +7,7 @@ picture: ./abloomston.jpg
 categories: [profile]
 ---
 
-# Here are the four qualities I value most in collaboration:
+# These are the four qualities I value most in collaboration:
 
 ## 1. Craft
 
