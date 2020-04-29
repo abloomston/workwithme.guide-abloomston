@@ -15,7 +15,9 @@ _I treat work as a craft—continuously cultivating key skills and bringing in i
 
 _What this means to me_: As part of this value, I place a high value on self-accountability and follow-through. 
 
-_How this shows up in my work_: Crafts I’m currently cultivating are:
+_How this shows up in my work_:
+
+Crafts I’m currently cultivating are:
 
 * Facilitating technical growth
 * Facilitative leadership
