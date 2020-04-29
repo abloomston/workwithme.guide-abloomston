@@ -69,21 +69,20 @@ _Invitation_: Speaking of time outside of work, ask me about my uninformed obses
 
 ### Principles for Inclusive Meetings
 
-* Agreed upon agenda and outcomes.
+* Agree upon agenda and outcomes before diving into content.
 * Be curious and ask questions.
-* Be aware and responsible if you are taking up more than a fair share of the air space.
-* TODO
+* Be aware and responsible if you are taking up more than a fair share of the air space. If you're often the first to speak, count to 5 slowly first.
+* If you're unsure how knowledgeable someone is about a topic, ask "How familiar are you with X?" rather than "Do you know about X?"
 
 ### Tips for Giving Feedback
 
-* Preface that you are giving feedback before doing so.
+* Ask permission before giving feedback.
 * Give criticism in private and with concrete examples to help people anchor in the facts, rather than emotions.
-* Appreciate and give recognition for positive impact. TODO do X% more because of bias.
+* Appreciate and give recognition for positive impact. Two related concepts to consider: [negativity bias](https://en.wikipedia.org/wiki/Negativity_bias) and [positive deviance](https://en.wikipedia.org/wiki/Positive_deviance).
+* Champion an attribution culture.
 
 ### Tips for Navigating Rough Terrain in Interpersonal Dialogue
 
 * Articulate your intention to reground the conversation and as an invitation to get on the same page again.
-* Ask questions and be curious.
+* Focus on hearing over correcting, listening over speaking.
 * Offer food.
-* TODO Grok
-* TODO
