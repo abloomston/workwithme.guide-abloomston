@@ -55,7 +55,7 @@ _Invitation_:
 * Please give me feedback.
 * Use and share these tips on [how to give feedback](#tips-for-giving-feedback) and [how to navigate rough terrain in personal dialogue](#tips-for-navigating-rough-terrain-in-interpersonal-dialogue).
 * Airbnb colleagues: You can submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston). Reflektive is a great place for appreciation/recognition.
-* I’m always open to growth relationships of mutual exchange outside of project work (that’s Adam speak for mentoring 🤓). Please feel free to approach me if you have an idea.
+* I’m energized by growth relationships of mutual exchange outside of project work (rather than the standard mentor-mentee dynamic). Please feel free to approach me if you have an idea.
 
 ## 4. Focus
 
