@@ -7,7 +7,7 @@ picture: ./abloomston.jpg
 categories: [profile]
 ---
 
-# WHAT I VALUE IN COLLABORATION
+# What I value in collaboration
 
 ## CRAFT
 
@@ -29,7 +29,7 @@ Areas in which I’m intellectually focused right now include:
 
 _Invitation_: Check out the trainings and conferences I am attending on [LinkedIn](https://www.linkedin.com/in/adam-bloomston/).
 
-## INCLUSION
+## Inclusion
 
 _A diversity of voices participating in the dialogue is essential for solving complex systemic issues. Plus, it’s just the right thing to do._
 
@@ -39,7 +39,7 @@ _How this shows up in my work_: I believe in meeting agendas and target outcomes
 
 _Invitation_: Use and share [these principles of inclusion in meetings](#principles-for-inclusive-meetings).
 
-## GROWTH
+## Growth
 
 _I view every working relationship as an avenue for mutual growth for its own sake and for the sake of extraordinary project outcomes on behalf of the humans we create for._
 
@@ -55,7 +55,7 @@ _Invitation_:
 * Airbnb colleagues: You can submit feedback (compliments, suggestions, criticisms, and advice) to my manager at [air/feedback-for-adam-bloomston](https://air/feedback-for-adam-bloomston). Reflektive is a great place for appreciation/recognition.
 * I’m always open to growth relationships of mutual exchange outside of project work (that’s Adam speak for mentoring 🤓). Please feel free to approach me if you have an idea.
 
-## FOCUS
+## Focus
 
 _I am committed to presence in my worklife._
 
@@ -65,7 +65,7 @@ _How this shows up in my work_: You can rely on my calendar and Slack status as 
 
 _Invitation_: Speaking of time outside of work, ask me about my uninformed obsession with birds or my dog, Baby Doctor, whom I bring to work with me every day. If he’s bothering you at all, please let me know—no offense will be taken, I promise!
 
-## RESOURCES FOR TEAMS AND FELLOW HUMAN BEINGS
+## Resources for teams and fellow human beings
 
 ### Principles for Inclusive Meetings
 
