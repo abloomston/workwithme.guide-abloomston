@@ -81,11 +81,3 @@ _Invitation_: Speaking of time outside of work, ask me about my uninformed obses
 * Offer food.
 * TODO Grok
 * TODO
-
-## Values and Personality
-
-* I aspire to be **self-reflexive**, to have and model **humility**.
-* I place a high value on **self-accountability** and **follow-through**.
-* Facilitating the **growth** of other technologists is very important to me.
-
-*Please provide [feedback](#receiving-feedback--recognition) if and when you feel I could do better in holding these values.*
