@@ -29,15 +29,13 @@ Areas in which I’m intellectually focused right now include:
 * Long term project planning
 * Privacy, ethics, and machine learning
 
-I draw inspiration from the craft of these people:
+_Invitation_: Check out the trainings and conferences I am attending on [LinkedIn](https://www.linkedin.com/in/adam-bloomston/). Checkout the work from the people whose craft I most respect:
 
 * [Dr. Latanya Sweeney](https://en.wikipedia.org/wiki/Latanya_Sweeney)
 * [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi)
 * [Dr. Diane Vaughan](https://en.wikipedia.org/wiki/Diane_Vaughan)
 * [Alberta Hunter](https://en.wikipedia.org/wiki/Alberta_Hunter)
 * [Dr. Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg)
-
-_Invitation_: Check out the trainings and conferences I am attending on [LinkedIn](https://www.linkedin.com/in/adam-bloomston/).
 
 ## 2. Inclusion
 
